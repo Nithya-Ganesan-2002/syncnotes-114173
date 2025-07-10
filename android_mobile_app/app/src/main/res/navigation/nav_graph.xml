@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.androidmobileapp.ui.LoginFragment"
+        android:label="Login"/>
+    <fragment
+        android:id="@+id/noteListFragment"
+        android:name="com.example.androidmobileapp.ui.NoteListFragment"
+        android:label="Notes">
+        <action
+            android:id="@+id/action_noteList_to_noteEdit"
+            app:destination="@id/noteEditFragment"
+            app:popUpTo="@id/noteListFragment"
+            app:popUpToInclusive="false"/>
+    </fragment>
+    <fragment
+        android:id="@+id/noteEditFragment"
+        android:name="com.example.androidmobileapp.ui.NoteEditFragment"
+        android:label="Edit Note"/>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.androidmobileapp.ui.ProfileFragment"
+        android:label="Profile"/>
+</navigation>
