@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.0" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.androidmobileapp.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.style.Theme_AndroidMobileApp"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/themes.xml"
+            line="2"
+            column="12"
+            startOffset="23"
+            endLine="2"
+            endColumn="41"
+            endOffset="52"/>
+        <entry
+            name="model"
+            string="color[teal_700(U)],drawable[ic_add(U)],id[fab_add_note(U)],layout[activity_main(U)],mipmap[ic_launcher_round(U),ic_launcher(U)],string[fab_add_note(U),app_name(U)],style[Theme_AppCompat_Light_DarkActionBar(R),Theme_AndroidMobileApp(D),Theme_MaterialComponents_DayNight_NoActionBar(E)];3^6^0^1,9^a^0;;;"/>
+    </map>
+
+</incidents>

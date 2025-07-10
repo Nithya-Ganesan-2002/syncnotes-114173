@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android_mobile_app</string>
+    <string name="fab_add_note">Add new note</string>
 </resources>

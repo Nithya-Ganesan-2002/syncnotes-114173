@@ -1,0 +1,166 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/fileHashes/fileHashes.bin",
+            "count": 125
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/fileHashes/fileHashes.lock",
+            "count": 96
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gitignore",
+            "count": 85
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/executionHistory/executionHistory.bin",
+            "count": 73
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/layout/activity_main.xml",
+            "count": 73
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/values/strings.xml",
+            "count": 65
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/executionHistory/executionHistory.lock",
+            "count": 64
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradle.properties",
+            "count": 63
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/java/com/example/androidmobileapp/MainActivity.java",
+            "count": 61
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradlew",
+            "count": 60
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/settings.gradle",
+            "count": 58
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradle/wrapper/gradle-wrapper.jar",
+            "count": 56
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/post_process_status.lock",
+            "count": 55
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/checksums/checksums.lock",
+            "count": 54
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradle/wrapper/gradle-wrapper.properties",
+            "count": 54
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/post_process.log",
+            "count": 52
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/AndroidManifest.xml",
+            "count": 52
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.status",
+            "count": 51
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+            "count": 51
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+            "count": 51
+        }
+    ],
+    "top_n_last_10_min_accessed": [
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/fileHashes/fileHashes.bin",
+            "count": 43
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gitignore",
+            "count": 35
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/layout/activity_main.xml",
+            "count": 20
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.gradle/8.12/executionHistory/executionHistory.bin",
+            "count": 18
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/values/strings.xml",
+            "count": 14
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradle.properties",
+            "count": 13
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradlew",
+            "count": 10
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/java/com/example/androidmobileapp/MainActivity.java",
+            "count": 10
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/settings.gradle",
+            "count": 8
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/values/colors.xml",
+            "count": 8
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradle/wrapper/gradle-wrapper.jar",
+            "count": 7
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/post_process_status.lock",
+            "count": 6
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/gradle/wrapper/gradle-wrapper.properties",
+            "count": 5
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/AndroidManifest.xml",
+            "count": 3
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/.status",
+            "count": 2
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+            "count": 2
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+            "count": 2
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+            "count": 2
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+            "count": 2
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/syncnotes-114173/android_mobile_app/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+            "count": 2
+        }
+    ]
+}

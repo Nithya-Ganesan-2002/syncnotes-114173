@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.AndroidMobileApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal_700</item>
+        <item name="colorPrimaryVariant">@color/teal_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@android:color/black</item>
+        <item name="colorSecondaryVariant">@android:color/darker_gray</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/teal_700</item>
+    </style>
+</resources>
